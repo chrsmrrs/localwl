@@ -1,4 +1,4 @@
-# localwl
+# Local δ-k-WL
 
 Implementation of the local δ-k-WL, and other graph kernels in C++.
 
